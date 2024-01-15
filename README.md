@@ -19,3 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## notes app
 ![notes screen](assets/images/add_note.png)
+![add note ](aassets/images/add_note.png)
+![edit note ](assets/images/edit_note.png)
