@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 <!-- notes app --!>
 
 ## notes app
-![notes screen](assets/images/add_note.png "notes screen")
+![notes screen](assets/images/add_note.png)
